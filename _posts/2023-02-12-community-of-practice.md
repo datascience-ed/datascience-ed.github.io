@@ -1,15 +1,12 @@
 ---
-title: Getting Started
+title: Community of Practice
 author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Lesson or Module, data visualization]
-tags: [ggplot, matplotlib]
+date: 2023-02-12 20:55:00 +0800
+categories: [Foundations Course]
+tags: [foundations]
 pin: false
 ---
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/) is also required to be installed.
+ 
 
 ## Installation
 
