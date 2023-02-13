@@ -1,7 +1,7 @@
 ---
 title: Community of Practice
 author: cotes
-date: 2023-02-12 20:55:00 +0800
+date: 2022-02-12 20:55:00 +0800
 categories: [Foundations Course]
 tags: [foundations]
 pin: false

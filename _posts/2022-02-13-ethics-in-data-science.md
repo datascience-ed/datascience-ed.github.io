@@ -1,7 +1,7 @@
 ---
 title: Ethics
 author: cotes
-date: 2023-02-13 20:55:00 +0800
+date: 2022-02-13 20:55:00 +0800
 categories: [Lesson or Module, ethics]
 tags: [diversity]
 pin: false
