@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-<h2 data-toc-skip>Browse the Full Index of Posts</h2>
+<h2 data-toc-skip>Browse the Full Index</h2>
 
 Add some details here.
 
