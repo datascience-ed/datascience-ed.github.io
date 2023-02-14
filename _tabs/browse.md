@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-align-justify
-order: 3
+order: 1
 ---
 
 
