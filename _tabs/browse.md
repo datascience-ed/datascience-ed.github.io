@@ -7,7 +7,7 @@ order: 1
 
 <h2 data-toc-skip>Browse the Full Index</h2>
 
-Add some details here.
+Add some details here...
 
 
 <ul>
