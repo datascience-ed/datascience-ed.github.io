@@ -2,7 +2,7 @@
 layout: page
 title: Explore the Repo
 icon: fas fa-bolt
-order: 0
+order: 1
 ---
 
 
