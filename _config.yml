@@ -19,7 +19,7 @@ timezone: Pacific
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Data Science Ed                          # the main title
+title: Data Science Education Community                          # the main title
 
 tagline: An open-access repo for the Data Science Education Community # it will display as the sub-title
 
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://datascience-ed.github.io/'
 
 github:
-  username: github_username             # change to your github username
+  username: datascience-ed             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
