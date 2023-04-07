@@ -16,6 +16,6 @@ order: 4
 		<li>City College of San Francisco</li>
 		<li>Barnard College</li>
 		<li>University of Maryland, Baltmore County</li>
-		<li>University of California, Mills</li>
+		<li><a href="https://www.mills.edu/"> Mills College</a></li>
 	</ul>
 </body>
