@@ -9,8 +9,8 @@ order: 5
 
 Click <a href="https://github.com/datascience-ed/notebooks"><strong>this link</strong></a> to access a list of coding notebooks.
 <br>
-<br>
-<h3 data-toc-skip>To upload your own coding notebook to this repo:</h3>
+<h2 data-toc-skip>Submit a Notebook</h2>
+To upload your own coding notebook to this repo:
 <ol>
   <li>Click <a href="https://github.com/datascience-ed/notebooks"><strong>this link</strong></a> to access the "Notebooks" repo.</li>
   <li>Click on the "Add File" tab in the upper right corner</li>
