@@ -1,13 +1,12 @@
 ---
-title: Ethics
+title: Student Work - Jupyter Notebooks
 author: cotes
-date: 2022-02-13 20:55:00 +0800
-categories: [Lesson or Module, ethics]
-tags: [diversity]
-pin: false
+date: 2019-08-11 00:34:00 +0800
+categories: [Student Work, jupyter notebook]
+tags: [machine learning]
 ---
 
-(placeholder post)
+(placeholder)
 
 ## ADD A HEADING HERE
 

@@ -1,10 +1,9 @@
 ---
-title: Ethics
-author: cotes
-date: 2022-02-13 20:55:00 +0800
-categories: [Lesson or Module, ethics]
-tags: [diversity]
-pin: false
+title: Psychology and Decision Making in Data Science
+author: sille_bille
+date: 2021-01-03 18:32:00 -0500
+categories: [Connector Course, data science in psychology]
+tags: [psychology, decision making]
 ---
 
 (placeholder post)

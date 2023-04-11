@@ -1,9 +1,9 @@
 ---
-title: Ethics
+title: Visualizations in Data Science
 author: cotes
-date: 2022-02-13 20:55:00 +0800
-categories: [Lesson or Module, ethics]
-tags: [diversity]
+date: 2019-08-09 20:55:00 +0800
+categories: [Lesson or Module, data visualization]
+tags: [ggplot, matplotlib]
 pin: false
 ---
 

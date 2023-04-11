@@ -1,10 +1,10 @@
 ---
-title: Ethics
+title: Linear Regression
 author: cotes
-date: 2022-02-13 20:55:00 +0800
-categories: [Lesson or Module, ethics]
-tags: [diversity]
-pin: false
+date: 2023-02-13 14:10:00 +0800
+categories: [Class Activity, choose a model]
+tags: [regression, tree models]
+render_with_liquid: false
 ---
 
 (placeholder post)
