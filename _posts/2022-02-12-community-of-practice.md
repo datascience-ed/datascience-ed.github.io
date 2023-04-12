@@ -1,6 +1,6 @@
 ---
 title: Foundations of Data Science
-author: cotes
+author: aculich
 date: 2022-02-12 20:55:00 +0800
 categories: [Foundations Course]
 tags: [foundations]
