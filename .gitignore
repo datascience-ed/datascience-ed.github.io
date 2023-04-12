@@ -9,6 +9,7 @@
 !.stylelintrc.json
 
 # bundler cache
+_site
 vendor
 Gemfile.lock
 
