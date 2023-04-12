@@ -1,0 +1,27 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
+
+aculich:
+  name: Aaron Culich
+  twitter: aculich
+  url: https://dlab.berkeley.edu/people/aaron-culich
+
+sarakien
+  name: Sara Kien
+  twitter: sarahkien
+  url: https://dlab.berkeley.edu/people/sara-kien
