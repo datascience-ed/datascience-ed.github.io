@@ -7,6 +7,9 @@ tags: [teaching]
 render_with_liquid: false
 ---
 
+## Institution
+University of California, Santa Barbara
+
 ## Course Description
 Data is everywhere in the modern world. Each of us has access to data on virtually any topic imaginable via the internet, and public and private institutions are making use of data in decision-making more than ever before. However, access to data is not the same thing as access to information. The purpose of this course is to develop some of the foundational skills needed to consume data and create information. The main theme in the course is understanding the sources of data, the variability inherent in data, and the inherent uncertainty associated with conclusions drawn from data.
 
