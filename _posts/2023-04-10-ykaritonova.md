@@ -12,6 +12,9 @@ Data is everywhere in the modern world. Each of us has access to data on virtual
 
 The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets from a variety of disciplines. It delves into social issues surrounding data analysis such as privacy and design.
 
+Course website: [Int 5](https://ucsb-int5.github.io/f19/)
+
+
 
 ## Prerequisites
 This course does not have any prerequisites beyond high-school algebra (and a desire to learn). The curriculum and format is designed specifically for students who have not previously taken statistics or computer science courses, which is one of the reasons why this course is open only to the first- and second-year students. Students who have taken several statistics or computer science courses should instead take a more advanced course.
@@ -23,7 +26,6 @@ This course does not have any prerequisites beyond high-school algebra (and a de
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucsb-int5&repo=int5-f18-notebooks)](https://github.com/ucsb-int5/int5-f18-notebooks)
 
 
-## Contact
-* Course website: [Int 5](https://ucsb-int5.github.io/f19/)
-* Email: [ykk@cs.ucsb.edu](mailto:ykk@cs.ucsb.edu)
+## Contributor
+* [Yekaterina (Kate) Kharitonova](mailto:ykk@cs.ucsb.edu)
 
