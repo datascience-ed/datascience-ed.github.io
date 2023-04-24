@@ -6,6 +6,16 @@ order: 0
 ---
 This is a Community of Practice repository that provides a space for educators who are teaching introductory level data science to share materials and showcase their work. Contributions to this repo consist of short articles about data science curricula, including lessons, modules, and courses. Each article includes a link to a GitHub repo or website that stores relevant curriculum materials, such as Jupyter notebooks. Contributions can also include submission of a specific coding notebook without providing a written summary that links a Github repo or website.
 
+<h2 data-toc-skip>Most Recent Contributions</h2>
+
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <h2 data-toc-skip>How to Search this Repo</h2>
 
@@ -57,17 +67,6 @@ For the second option, you can upload a specific coding notebook without providi
 </ol>
 
 
-
-<h2 data-toc-skip>Most Recent Contributions</h2>
-
-
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 
 
