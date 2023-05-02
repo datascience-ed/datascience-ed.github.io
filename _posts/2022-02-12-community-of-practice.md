@@ -2,7 +2,7 @@
 title: Foundations of Data Science
 author: aculich
 date: 2022-02-12 20:55:00 +0800
-categories: [Foundations Course]
+categories: [Foundations Course / Introductory-level Course]
 tags: [foundations]
 pin: false
 ---

@@ -2,7 +2,7 @@
 title: INT 5 - Data Science Foundations
 author: ykharitonova
 date: 2023-04-10 14:10:00 +0800
-categories: [course materials, github repo]
+categories: [Foundations Course / Introductory-level Course]
 tags: [teaching]
 render_with_liquid: false
 ---
