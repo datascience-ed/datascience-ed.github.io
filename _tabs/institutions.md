@@ -11,11 +11,10 @@ order: 4
 
 <body>
 	<ul>
-		<li>College of San Mateo</li>
-		<li>College of Alameda</li>
 		<li>City College of San Francisco</li>
-		<li>Barnard College</li>
+		<li>University of California, Berkeley</li>
+		<li>University of California, Santa Barbara</li>
+		<li>University of Illinois at Urbana-Champaign</li>
 		<li>University of Maryland, Baltmore County</li>
-		<li><a href="https://www.mills.edu/"> Mills College</a></li>
 	</ul>
 </body>
