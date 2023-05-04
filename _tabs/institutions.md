@@ -7,7 +7,6 @@ order: 4
 
 <h2 data-toc-skip>List of Participating Colleges and Universities</h2>
 
-<h3 data-toc-skip>California</h3>
 
 <body>
 	<ul>
