@@ -8,7 +8,6 @@ order: 4
 <h2 data-toc-skip>List of Participating Colleges and Universities</h2>
 
 
-<body>
 	<ul>
 		<li>City College of San Francisco</li>
 		<li>University of California, Berkeley</li>
@@ -16,4 +15,3 @@ order: 4
 		<li>University of Illinois at Urbana-Champaign</li>
 		<li>University of Maryland, Baltmore County</li>
 	</ul>
-</body>
